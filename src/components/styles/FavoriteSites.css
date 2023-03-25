@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    
+}
+
+.test{
+    
+    margin: 20px;
+    
+}
+
+a{
+    color: lightgreen;
+}
+
+li{
+    
+    list-style-type: none;
+    
+}
+li :hover{
+    color: red;
+}
